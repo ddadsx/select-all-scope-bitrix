@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Seleciona Todo Escopo - Bitrix",
+    "version": "0.1",
+    "content_scripts": [
+        {
+            "matches": [
+                "https://*.bitrix24.com.br/*",
+                "https://*.bitrix24.com/*"
+            ],
+            "js": [
+                "main.js"
+            ]
+        }
+    ],
+    "action": {
+        "default_title": "Seleciona Todo Escopo - Bitrix"
+    }
+}
