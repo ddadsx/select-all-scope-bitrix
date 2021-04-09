@@ -19,6 +19,10 @@
 
   ![alt text](https://raw.githubusercontent.com/ddadsx/select-all-scope-bitrix/main/images/click-to-show.png "Clique para ativar")
 
+- Caso o ícone não apareça, clique em Extensões e **fixe** a extensão
+
+  ![alt text](https://raw.githubusercontent.com/ddadsx/select-all-scope-bitrix/main/images/pin-extension.png "Fixar extensão")
+
 
 #### Pronto! Pode acessar a página de criação de App e ser feliz!
 
