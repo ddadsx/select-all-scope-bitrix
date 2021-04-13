@@ -31,4 +31,4 @@
 ## O botão não apareceu?
 
 - Caso o botão não apareça, certifique-se que você não abriu a págna de criação de App na aba lateral que o Bitrix abre por padrão. Caso tenha aberto essa aba, aperte F5 para recarregar a página.
-- Se mesmo assim o botão não tiver aparecido, clique no ícone da extensão que fica ao lado da barra de endereço
+- Se mesmo assim o botão não tiver aparecido, clique no ícone da extensão que fica ao lado da barra de endereço para atualizar a extensão.
